@@ -10,7 +10,7 @@
 
 ## Press
 
-<img src="handome_team-ikz.jpg    ">
+<img src="handsome_team-ikz.jpg"  alt="Alt Text">
 
 [ERC grant to develop open-science education resources for crystal growth] (https://www.ikz-berlin.de/en/public-relations/news/article/erc-grant-to-develop-open-science-education-resources-for-crystal-growth)
 
