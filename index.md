@@ -10,7 +10,7 @@
 
 ## Press
 
-<img src="[https://www.ikz-berlin.de/fileadmin/_processed_/6/3/csm_23_05_PM_ERC-Grant_a8f5666d02.jpg](https://www.ikz-berlin.de/fileadmin/_processed_/6/3/csm_23_05_PM_ERC-Grant_a8f5666d02.jpg)">
+<img src="https://www.ikz-berlin.de/fileadmin/_processed_/6/3/csm_23_05_PM_ERC-Grant_a8f5666d02.jpg">
 
 [ERC grant to develop open-science education resources for crystal growth] (https://www.ikz-berlin.de/en/public-relations/news/article/erc-grant-to-develop-open-science-education-resources-for-crystal-growth)
 
