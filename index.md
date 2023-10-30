@@ -5,13 +5,20 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
 
 <video width="320" height="240" autoplay loop muted>
   <source src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/democz_150x_52min.mp4" type="video/mp4">
+  <figcaption>Benchtop growth of tin crystal using the Czochralski method</figcaption>
 </video>
 
+<br>
 ## Press
 
 [ERC grant to develop open-science education resources for crystal growth](https://www.ikz-berlin.de/en/public-relations/news/article/erc-grant-to-develop-open-science-education-resources-for-crystal-growth)
 
-<img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/Handsome_Team-IKZ.jpg" width=500>
+<figure>
+  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/Handsome_Team-IKZ.jpg" width=500>
+  <figcaption>Project team at IKZ</figcaption>
+</figure>
+
+
 
 ## Acknowledgements
 
