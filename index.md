@@ -7,6 +7,8 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
   <source src="https://raw.githubusercontent.com/poc-handsome/master/democz_150x_52min.mp4" type="video/mp4">
 </video>
 
+<img src="https://raw.githubusercontent.com/poc-handsome/master/democz_150x.gif" width="500" height="600">
+
 
 ## Press
 
