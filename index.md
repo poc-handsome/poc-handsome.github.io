@@ -7,6 +7,9 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
   <source src="https://raw.githubusercontent.com/poc-handsome/master/democz_150x_52min.mp4" type="video/mp4" alt="Time lapse video of model experiment for Czochralski crystal growth using tin (Sn)"/>
 </video>
 
+<video width="320" height="240" autoplay loop muted>
+  <source src="https://raw.githubusercontent.com/poc-handsome/master/democz_150x_52min.mp4" type="video/mp4" alt="Time lapse video of model experiment for Czochralski crystal growth using tin (Sn)"/>
+</video>
 
 ## Press
 
