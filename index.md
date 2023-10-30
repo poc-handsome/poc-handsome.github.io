@@ -5,7 +5,7 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
 
 <video width="320" height="240" autoplay loop muted>
   <source src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/democz_150x_52min.mp4" type="video/mp4">
-  <figcaption>Benchtop growth of tin crystal using the Czochralski method</figcaption>
+  <figcaption>Benchtop growth of tin crystal using the Czochralski method (playback speed: 150x)</figcaption>
 </video>
 
 <br>
