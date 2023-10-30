@@ -9,7 +9,7 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
 
 ## Press
 
-<img src="https://raw.githubusercontent.com/poc-handsome/master/Handsome_Team-IKZ.jpg" alt="Project team at IKZ-Berlin" width="500" height="600>
+<img src="https://raw.githubusercontent.com/poc-handsome/master/Handsome_Team-IKZ.jpg" alt="Project team at IKZ-Berlin" width="500" height="600">
 
 [ERC grant to develop open-science education resources for crystal growth](https://www.ikz-berlin.de/en/public-relations/news/article/erc-grant-to-develop-open-science-education-resources-for-crystal-growth)
 
