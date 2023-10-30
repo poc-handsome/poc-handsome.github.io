@@ -3,6 +3,11 @@
 
 We propose to develop a hands-on desktop setup for the demonstration of the Czochralski growth process. It will be built in a modular way, from very simple experiments (suitable for schools) to complex scientific setups (for higher education at universities). We start with a demonstration of basic mechanisms of heat transfer (conduction, convection, and radiation), proceed with the phenomena of melting and solidification, explain the controlled process of phase change, and finish with an automated crystal growth process. A crucial aspect in all stages is to provide as much observation as possible using various measurement techniques. In this way, we will be able to transfer the knowledge from high-level research labs to the classroom and still preserve the possibilities for hands-on experience.
 
+<video width="320" height="240" autoplay loop muted>
+  <source src="democz_150x_52min.mp4" type="video/mp4" />
+</video>
+
+
 ## Team members
 
 - Kaspars Dadzis (principal investigator) [ResearchGate](https://www.researchgate.net/profile/Kaspars-Dadzis) / [ORCID](https://orcid.org/0000-0002-0126-7343)
