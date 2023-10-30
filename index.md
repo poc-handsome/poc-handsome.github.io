@@ -4,15 +4,15 @@
 We propose to develop a hands-on desktop setup for the demonstration of the Czochralski growth process. It will be built in a modular way, from very simple experiments (suitable for schools) to complex scientific setups (for higher education at universities). We start with a demonstration of basic mechanisms of heat transfer (conduction, convection, and radiation), proceed with the phenomena of melting and solidification, explain the controlled process of phase change, and finish with an automated crystal growth process. A crucial aspect in all stages is to provide as much observation as possible using various measurement techniques. In this way, we will be able to transfer the knowledge from high-level research labs to the classroom and still preserve the possibilities for hands-on experience.
 
 <video width="320" height="240" autoplay loop muted>
-  <source src="https://raw.githubusercontent.com/poc-handsome/master/democz_150x_52min.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/democz_150x_52min.mp4" type="video/mp4">
 </video>
 
-<img src="https://raw.githubusercontent.com/poc-handsome/master/democz_150x.gif" width="500" height="600">
+<img src="https://raw.githubusercontent.com/poc-handsome/master/poc-handsome.github.io/democz_150x.gif" width="500" height="600">
 
 
 ## Press
 
-<img src="https://raw.githubusercontent.com/poc-handsome/master/Handsome_Team-IKZ.jpg">
+<img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/Handsome_Team-IKZ.jpg">
 
 [ERC grant to develop open-science education resources for crystal growth](https://www.ikz-berlin.de/en/public-relations/news/article/erc-grant-to-develop-open-science-education-resources-for-crystal-growth)
 
