@@ -13,9 +13,7 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
 <br>
 
 <figure>
-  <video width="320" height="240" autoplay loop muted>
-    <source src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/EduCrys_CAD.png" width=600>
-  </video>
+  <IMG src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/EduCrys_CAD.PNG" width=600>
   <figcaption>Conceptual design of the modular crystal growth setup "EduCrys"</figcaption>
 </figure>
 
