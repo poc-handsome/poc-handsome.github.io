@@ -12,6 +12,15 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
 
 <br>
 
+<figure>
+  <video width="320" height="240" autoplay loop muted>
+    <source src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/EduCrys_CAD.png" width=600>
+  </video>
+  <figcaption>Conceptual design of the modular crystal growth setup "EduCrys"</figcaption>
+</figure>
+
+<br>
+
 ## Press
 
 [ERC grant to develop open-science education resources for crystal growth](https://www.ikz-berlin.de/en/public-relations/news/article/erc-grant-to-develop-open-science-education-resources-for-crystal-growth)
