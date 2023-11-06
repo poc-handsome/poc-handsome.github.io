@@ -25,7 +25,7 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
 <br>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/Handsome_Team-IKZ.jpg" width=400>
+  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/Handsome_Team-IKZ.jpg" width=400  align="left">
   <figcaption>Project team at IKZ</figcaption>
 </figure>
 
