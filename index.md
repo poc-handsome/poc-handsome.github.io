@@ -33,6 +33,6 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
 
 ## Acknowledgements
 
-This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No xxx).
+This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 101122970).
 
 <img src="https://raw.githubusercontent.com/nemocrys/pyelmer/master/EU-ERC.png">
