@@ -25,7 +25,7 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
 <br>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/Handsome_Team-IKZ.jpg" width=400  align="left">
+  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/Handsome_Team-IKZ.jpg" width=600>
   <figcaption>Project team at IKZ</figcaption>
 </figure>
 
@@ -34,6 +34,8 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
 ## Acknowledgements
 
 This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 101122970).
+<br>
+
 <figure>
-  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/EN_FundedbytheEU_RGB_POS.png" width=600>
+  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/EN_FundedbytheEU_RGB_POS.png" width=400  align="left">
 </figure>
