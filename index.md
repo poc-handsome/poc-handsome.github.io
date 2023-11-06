@@ -37,5 +37,5 @@ This project has received funding from the European Research Council (ERC) under
 <br>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/EN_FundedbytheEU_RGB_POS.png" width=400  align="left">
+  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/EN_FundedbytheEU_RGB_POS.png" width=400  align="left|right">
 </figure>
