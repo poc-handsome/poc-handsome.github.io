@@ -10,7 +10,7 @@
 <br>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/News/Handsome_Team-IKZ.jpg" width=600>
+  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/Handsome_Team-IKZ.jpg" width=600>
 </figure>
 
 
