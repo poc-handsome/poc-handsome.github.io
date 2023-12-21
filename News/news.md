@@ -1,7 +1,7 @@
 ## News
 <br>
 
-[19/11/2023: HANDSOME in Berlin Science Week](https://berlinscienceweek.com/event/from-order-to-disorder-and-back-featuring-icarus-performance/)
+[19/11/2023: HANDSOME at Berlin Science Week](https://berlinscienceweek.com/event/from-order-to-disorder-and-back-featuring-icarus-performance/)
 <br>
 <figure>
   <img src="https://poc-handsome.github.io/News/BSW_Table.jpg" width=600>
