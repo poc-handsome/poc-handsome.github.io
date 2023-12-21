@@ -1,7 +1,7 @@
 
 [19-11-2023: HANDSOME in Berlin Science Week](https://berlinscienceweek.com/event/from-order-to-disorder-and-back-featuring-icarus-performance/)
 <figure>
-  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/News/BSW_Table.jpg" width=600>
+  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/News/main/BSW_Table.jpg" width=600>
 </figure>
 
 
@@ -9,7 +9,7 @@
 <br>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/News/Handsome_Team-IKZ.jpg" width=600>
+  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/News/main/Handsome_Team-IKZ.jpg" width=600>
 </figure>
 
 
