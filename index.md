@@ -22,7 +22,8 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
 
 ## [News](https://nemocrys.github.io/news/news.md)
 
-## Press
+
+
 
 [ERC grant to develop open-science education resources for crystal growth](https://www.ikz-berlin.de/en/public-relations/news/article/erc-grant-to-develop-open-science-education-resources-for-crystal-growth)
 <br>
