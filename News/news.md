@@ -1,5 +1,5 @@
 
-[19-11-2023: HANDSOME in Berlin Science Week]([https://www.ikz-berlin.de/en/public-relations/news/article/erc-grant-to-develop-open-science-education-resources-for-crystal-growth](https://berlinscienceweek.com/event/from-order-to-disorder-and-back-featuring-icarus-performance/))
+[19-11-2023: HANDSOME in Berlin Science Week](https://berlinscienceweek.com/event/from-order-to-disorder-and-back-featuring-icarus-performance/)
 <figure>
   <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/Handsome_Team-IKZ.jpg" width=600>
 </figure>
