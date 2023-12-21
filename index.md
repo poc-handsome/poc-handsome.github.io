@@ -23,20 +23,10 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
 ## [News](https://nemocrys.github.io/news/news.md)
 
 [19-11-2023: HANDSOME in Berlin Science Week](https://berlinscienceweek.com/event/from-order-to-disorder-and-back-featuring-icarus-performance/)
-<figure>
-  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/News/master/BSW_Table.jpg" width=600>
-</figure>
 
 
 [24-05-2023: ERC grant to develop open-science education resources for crystal growth](https://www.ikz-berlin.de/en/public-relations/news/article/erc-grant-to-develop-open-science-education-resources-for-crystal-growth)
 <br>
-
-<figure>
-  <img src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/News/master/Handsome_Team-IKZ.jpg" width=600>
-</figure>
-
-
-
 
 
 ## Acknowledgements
