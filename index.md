@@ -19,7 +19,7 @@ We propose to develop a hands-on desktop setup for the demonstration of the Czoc
 
 <br>
 
-## [News](https://poc-handsome.github.io/news/news.html)
+## [News](https://poc-handsome.github.io/News/news.html)
     
 
 [19-11-2023: HANDSOME in Berlin Science Week](https://berlinscienceweek.com/event/from-order-to-disorder-and-back-featuring-icarus-performance/)
