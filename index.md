@@ -12,17 +12,17 @@ Crystals are an indispensable part of the modern life -- electronic chips, solar
 <br>
 
 <figure>
-  <video width="320" height="240" autoplay loop muted>
-    <source src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/democz_150x_52min.mp4" type="video/mp4" width=600>
-  </video>
-  <figcaption>Benchtop growth of tin crystal using the Czochralski method (playback speed: 150x)</figcaption>
+  <IMG src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/EduCrys.JPG" width=700>
+  <figcaption>Conceptual design of the modular crystal growth setup "EduCrys"</figcaption>
 </figure>
 
 <br>
 
 <figure>
-  <IMG src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/EduCrys.JPG" width=700>
-  <figcaption>Conceptual design of the modular crystal growth setup "EduCrys"</figcaption>
+  <video width="320" height="240" autoplay loop muted>
+    <source src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/democz_150x_52min.mp4" type="video/mp4" width=600>
+  </video>
+  <figcaption>Benchtop growth of tin crystal using the Czochralski method (playback speed: 150x)</figcaption>
 </figure>
 
 <br>
