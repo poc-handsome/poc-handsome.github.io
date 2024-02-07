@@ -9,6 +9,8 @@ Crystals are an indispensable part of the modern life -- electronic chips, solar
 
 **EduCrys** is a desktop setup for hands-on demonstration of the [Czochralski growth process](https://en.wikipedia.org/wiki/Czochralski_method), one of the best established and most widely used crystal growth methods. The demo setup is modular, allowing a wide range of experiments and observatios --- from very simple experiments (suitable for schools) to complex scientific setups (for higher education at universities). 
 
+<br>
+
 <figure>
   <video width="320" height="240" autoplay loop muted>
     <source src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/democz_150x_52min.mp4" type="video/mp4" width=600>
