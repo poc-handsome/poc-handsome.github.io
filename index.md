@@ -12,7 +12,7 @@ Crystals are an indispensable part of the modern life -- electronic chips, solar
 <br>
 
 <figure>
-  <IMG src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/EduCrys_2.PNG" width=700>
+  <IMG src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/EduCrys_2.jpg" width=700>
   <figcaption>Conceptual design of the modular crystal growth setup "EduCrys"</figcaption>
 </figure>
 
