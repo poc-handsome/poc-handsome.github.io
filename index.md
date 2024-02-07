@@ -1,7 +1,13 @@
 
 ## Bringing hands-on fun to classrooms
 
-We propose to develop a hands-on desktop setup for the demonstration of the Czochralski growth process. It will be built in a modular way, from very simple experiments (suitable for schools) to complex scientific setups (for higher education at universities). We start with a demonstration of basic mechanisms of heat transfer (conduction, convection, and radiation), proceed with the phenomena of melting and solidification, explain the controlled process of phase change, and finish with an automated crystal growth process. A crucial aspect in all stages is to provide as much observation as possible using various measurement techniques. In this way, we will be able to transfer the knowledge from high-level research labs to the classroom and still preserve the possibilities for hands-on experience.
+# The problem
+
+Crystals are an indispensable part of the modern life -- electronic chips, solar cells, lasers and many other technologies rely on crystalline materials. Despite the importance and broad applications of crystals in the modern world, knowledge about the production of crystalline materials is mostly limited to specialist research and industry communities. In schools, exposure to the topics of crystal growth and modern materials science is limited to the occasional lab visit. At the university level, crystal growth labs are mostly used in specialized courses for a limited audience. Consequently, not only the general public but also a large part of the scientific community is unaware of important challenges in crystal growth. While the general need for teaching the basics of the production of crystalline materials has been recognized in the literature, practical solutions are so far lacking. 
+
+# Our solution
+
+We are developing a hands-on desktop setup for the demonstration of the [Czochralski growth process](https://en.wikipedia.org/wiki/Czochralski_method), one of the best established and most widely used crystal growth methods. The demo setup will is modular, allowing a wide range of experiments and observatios --- from very simple experiments (suitable for schools) to complex scientific setups (for higher education at universities). 
 
 <figure>
   <video width="320" height="240" autoplay loop muted>
