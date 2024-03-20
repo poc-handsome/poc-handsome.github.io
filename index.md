@@ -10,7 +10,7 @@ Crystals are an indispensable part of the modern life -- electronic chips, solar
 
 **EduCrys** is a desktop setup for hands-on demonstration of the [Czochralski growth process](https://en.wikipedia.org/wiki/Czochralski_method), one of the best established and most widely used crystal growth methods. The demo setup is modular, allowing a wide range of experiments and observatios --- from very simple experiments (suitable for schools) to complex scientific setups (for higher education at universities). 
 
-Click [here](https://poc-handsome.github.io/details/details.html) for further information and details
+Click [here](https://poc-handsome.github.io/details/details.html) for further information and details.
 
 <br>
 ## News
@@ -19,7 +19,7 @@ Click [here](https://poc-handsome.github.io/details/details.html) for further in
 
 19/11/2023: [Berlin Science Week](https://poc-handsome.github.io/news-02/news-02.html)
 
-24/05/2023: [HANDSOME receives fundnig from ERC](https://poc-handsome.github.io/news-01/news-01.html)
+24/05/2023: [HANDSOME receives funding from ERC](https://poc-handsome.github.io/news-01/news-01.html)
 
 <br>
 ## Contact
