@@ -1,5 +1,6 @@
+[Back to Main](https://poc-handsome.github.io)
+
 ## Details
-<br>
 
 ### Publications
 
@@ -13,7 +14,7 @@ S. Foroushani, K. Dadzis, A modular, low-cost setup for teaching the multiphysic
 ### Pictures and videos
 
 <figure>
-  <IMG src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/EduCrys_2.jpg" width=800>
+  <IMG src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/details/EduCrys_2.jpg" width=800>
   <figcaption>Conceptual design of the modular crystal growth setup "EduCrys"</figcaption>
 </figure>
 
@@ -21,7 +22,7 @@ S. Foroushani, K. Dadzis, A modular, low-cost setup for teaching the multiphysic
 
 <figure>
   <video width="320" height="240" autoplay loop muted>
-    <source src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/master/democz_150x_52min.mp4" type="video/mp4" width=600>
+    <source src="https://raw.githubusercontent.com/poc-handsome/poc-handsome.github.io/details/democz_150x_52min.mp4" type="video/mp4" width=600>
   </video>
   <figcaption>Benchtop growth of tin crystal using the Czochralski method (playback speed: 150x)</figcaption>
 </figure>

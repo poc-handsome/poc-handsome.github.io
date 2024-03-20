@@ -22,6 +22,10 @@ Click [here](https://poc-handsome.github.io/details/details.html) for further in
 24/05/2023: [HANDSOME receives fundnig from ERC](https://poc-handsome.github.io/news-01/news-01.html)
 
 
+## Contact
+
+Kaspars Dadzis at the [Leibniz Institute for Crystal Growth](https://www.ikz-berlin.de/en/research/materials-science/section-fundamental-description#c488)
+
 
 <br>
 <br>
