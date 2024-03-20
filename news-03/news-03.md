@@ -2,11 +2,13 @@
 
 ## News
 
-### 8/3/2024: Best poster award at the DKT
+### 8/3/2024: Best poster award at the *Deutsche Kristallzüchtungstagung 2024* in Erlangen
+
+Conference home at [iisb.fraunhofer.de](https://www.iisb.fraunhofer.de/de/research_areas/materialien/dkt2024.html)
 
 <br>
 <figure>
-  <img src="https://poc-handsome.github.io/news-01/Handsome_Team-IKZ.jpg" width=600>
+  <img src="https://poc-handsome.github.io/news-03/DKT-Erlangen.jpg" width=600>
 </figure>
 <br>
 

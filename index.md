@@ -12,16 +12,16 @@ Crystals are an indispensable part of the modern life -- electronic chips, solar
 
 Click [here](https://poc-handsome.github.io/details/details.html) for further information and details
 
-
+<br>
 ## News
     
-8/3/2024: [Best poster award at the DKT](https://poc-handsome.github.io/news-03/news-03.html)
+8/3/2024: [Best poster award at the DKT2024](https://poc-handsome.github.io/news-03/news-03.html)
 
 19/11/2023: [Berlin Science Week](https://poc-handsome.github.io/news-02/news-02.html)
 
 24/05/2023: [HANDSOME receives fundnig from ERC](https://poc-handsome.github.io/news-01/news-01.html)
 
-
+<br>
 ## Contact
 
 Kaspars Dadzis at the [Leibniz Institute for Crystal Growth](https://www.ikz-berlin.de/en/research/materials-science/section-fundamental-description#c488)
@@ -29,7 +29,6 @@ Kaspars Dadzis at the [Leibniz Institute for Crystal Growth](https://www.ikz-ber
 
 <br>
 <br>
-
 ## Acknowledgements
 
 This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 101122970).
