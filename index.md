@@ -26,6 +26,8 @@ Click [here](https://poc-handsome.github.io/details/details.html) for further in
 
 Kaspars Dadzis at the [Leibniz Institute for Crystal Growth](https://www.ikz-berlin.de/en/research/materials-science/section-fundamental-description#c488)
 
+Related project: [NEMOCRYS](https://nemocrys.github.io/)
+
 
 <br>
 <br>
