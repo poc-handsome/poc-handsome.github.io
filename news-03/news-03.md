@@ -9,6 +9,7 @@ Conference home at [iisb.fraunhofer.de](https://www.iisb.fraunhofer.de/de/resear
 <br>
 <figure>
   <img src="https://poc-handsome.github.io/news-03/DKT-Erlangen.jpg" width=600>
+  <figcaption>Project team members with the poster and EduCrys setup</figcaption>
 </figure>
 <br>
 

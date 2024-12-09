@@ -15,11 +15,17 @@ Click [here](https://poc-handsome.github.io/details/details.html) for further in
 <br>
 ## News
     
+23/8/2024: [EduCrys for a Bachelor's thesis](https://poc-handsome.github.io/news-06/news-06.html)
+
+2/8/2024: [EduCrys for a professional intership](https://poc-handsome.github.io/news-05/news-05.html)
+
+22/6/2024: [Long Night of the Sciences](https://poc-handsome.github.io/news-04/news-04.html)
+
 8/3/2024: [Best poster award at the DKT2024](https://poc-handsome.github.io/news-03/news-03.html)
 
 19/11/2023: [Berlin Science Week](https://poc-handsome.github.io/news-02/news-02.html)
 
-24/05/2023: [HANDSOME receives funding from ERC](https://poc-handsome.github.io/news-01/news-01.html)
+24/5/2023: [HANDSOME receives funding from ERC](https://poc-handsome.github.io/news-01/news-01.html)
 
 <br>
 ## Contact
