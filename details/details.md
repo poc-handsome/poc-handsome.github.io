@@ -29,3 +29,17 @@ S. Foroushani, K. Dadzis, A modular, low-cost setup for teaching the multiphysic
 </figure>
 
 <br>
+
+
+<figure>
+  <IMG src="https://poc-handsome.github.io/details/EduCrys_3.jpg" width=800>
+  <figcaption>Latest design of the EduCrys setup</figcaption>
+</figure>
+
+<br>
+
+<figure>
+  <IMG src="https://poc-handsome.github.io/details/EduCrys_4.jpg" width=800>
+  <figcaption>Features of the EduCrys setup</figcaption>
+</figure>
+
