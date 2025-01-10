@@ -5,7 +5,7 @@
 ### Publications
 
 Preprint with a scientific description of the setup:  
-K. Dadzis, Czochralski growth of tin crystals as a multi-physical model experiment. [10.1088/1757-899X/1223/1/012003](https://doi.org/10.48550/arXiv.2305.06875)
+K. Dadzis, Czochralski growth of tin crystals as a multi-physical model experiment. [10.48550/arXiv.2305.06875](https://doi.org/10.48550/arXiv.2305.06875)
 
 Poster presented at the *Deutsche Kristallzüchtungstagung*:  
 S. Foroushani, K. Dadzis, A modular, low-cost setup for teaching the multiphysics of crystal growth. [10.13140/RG.2.2.20161.36962](http://dx.doi.org/10.13140/RG.2.2.20161.36962)
