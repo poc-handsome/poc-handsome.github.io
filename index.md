@@ -39,7 +39,7 @@ Related project: [NEMOCRYS](https://nemocrys.github.io/)
 <br>
 ## Acknowledgements
 
-This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 101122970).
+This project has received funding from the European Research Council (ERC) under the European Union's Horizon Europe framework programme for research and innovation (grant agreement No. 101122970).
 <br>
 
 <figure>
