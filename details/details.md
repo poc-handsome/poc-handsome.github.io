@@ -2,23 +2,27 @@
 
 ## Details
 
+### Instructions 
+
+Instructions for building and using the EduCrys setup:
+
+- Control software: [educrys-control-basic](https://github.com/poc-handsome/educrys-control-basic) 
+- Hardware: [educrys-hardware](https://github.com/poc-handsome/educrys-hardware)
+- Experiments: [educrys-experiments](https://github.com/poc-handsome/educrys-experiments)
+
 ### Publications
 
 Preprint with a scientific description of the setup:  
 K. Dadzis, Czochralski growth of tin crystals as a multi-physical model experiment. [10.48550/arXiv.2305.06875](https://doi.org/10.48550/arXiv.2305.06875)
 
 Poster presented at the *German Crystal Growth Conference* in 2024:  
-S. Foroushani, K. Dadzis, A modular, low-cost setup for teaching the multiphysics of crystal growth. [10.13140/RG.2.2.20161.36962](http://dx.doi.org/10.13140/RG.2.2.20161.36962)
+S. Foroushani, K. Dadzis, A modular, low-cost setup for teaching the multiphysics of crystal growth. [10.13140/RG.2.2.20161.36962/1](http://dx.doi.org/10.13140/RG.2.2.20161.36962/1)
 
 Examples of numerical simulation have been published [Online](https://github.com/nemocrys/ismcg-examples) with open source.
 
 Poster and lighting talk presented at the *Annual Meeting of the Young Crystal Growers as well as the German Crystal Growth Conference* in 2025:  
-K. Dadzis, F. Oesterle, N. Sagias, An experimental setup and numerical simulation for teaching the multiphysics of crystal growth. [10.13140/RG.2.2.10343.56482](http://dx.doi.org/10.13140/RG.2.2.10343.56482)  [10.13140/RG.2.2.30476.22408](http://dx.doi.org/10.13140/RG.2.2.30476.22408)
+K. Dadzis, F. Oesterle, N. Sagias, An experimental setup and numerical simulation for teaching the multiphysics of crystal growth. [10.13140/RG.2.2.10343.56482](http://dx.doi.org/10.13140/RG.2.2.10343.56482) and  [10.13140/RG.2.2.30476.22408](http://dx.doi.org/10.13140/RG.2.2.30476.22408)
 
-Instructions for building and using the EduCrys setup:
-- Control software: [educrys-control-basic](https://github.com/poc-handsome/educrys-control-basic) 
-- Hardware: [educrys-hardware](https://github.com/poc-handsome/educrys-hardware)
-- Experiments: [educrys-experiments](https://github.com/poc-handsome/educrys-experiments)
 
 
 <br>

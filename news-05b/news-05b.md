@@ -6,7 +6,7 @@
 
 Many visitors at the IKZ have enjoyed demonstrations of the experimental setup and sometimes live growth experiments. 
 
-This time a group of Master students in "International Technology Transfer" from the [Fachhochschule des Mittelstands (FHM)](www.fh-mittelstand.de) visited the IKZ.
+This time a group of Master students in "International Technology Transfer" from the [Fachhochschule des Mittelstands (FHM)](https://www.fh-mittelstand.de/) visited the IKZ.
 
 <br>
 <figure>
