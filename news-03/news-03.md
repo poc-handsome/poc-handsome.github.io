@@ -6,6 +6,8 @@
 
 Conference home at [iisb.fraunhofer.de](https://www.iisb.fraunhofer.de/de/research_areas/materialien/dkt2024.html)
 
+The poster is available online [here](https://poc-handsome.github.io/details/details.html)
+
 <br>
 <figure>
   <img src="https://poc-handsome.github.io/news-03/DKT-Erlangen.jpg" width=600>

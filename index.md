@@ -14,10 +14,18 @@ Further information and details: Click [here](https://poc-handsome.github.io/det
 
 <br>
 ## News
-    
+
+2/6/2025: [Instructions for building and using EduCrys released](https://poc-handsome.github.io/details/details.html)
+
+4/3/2025: [Annual Meeting of the Young Crystal Growers](https://poc-handsome.github.io/news-08/news-08.html)
+
+19/9/2024: [International School on Modelling in Crystal Growth](https://poc-handsome.github.io/news-07/news-07.html)
+  
 23/8/2024: [EduCrys for a Bachelor's thesis](https://poc-handsome.github.io/news-06/news-06.html)
 
-2/8/2024: [EduCrys for a professional intership](https://poc-handsome.github.io/news-05/news-05.html)
+2/8/2024: [EduCrys for a professional internship](https://poc-handsome.github.io/news-05/news-05.html)
+
+26/7/2024: [Demonstration to IKZ visitors](https://poc-handsome.github.io/news-05b/news-05b.html)
 
 22/6/2024: [Long Night of the Sciences](https://poc-handsome.github.io/news-04/news-04.html)
 

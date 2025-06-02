@@ -2,7 +2,7 @@
 
 ## News
 
-### 2/8/2024: EduCrys setup was employed for a professional intership with the Lise Meitner School of Science
+### 2/8/2024: EduCrys setup was employed for a professional internship with the Lise Meitner School of Science
 
 School homepage at [osz-lise-meitner.eu](https://www.osz-lise-meitner.eu/)
 
